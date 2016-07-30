@@ -21,7 +21,7 @@ mv sublime User
 **CMD :**
 ```console
 cd C:\Users\Administrator\AppData\Roaming\Sublime Text 3\Packages
-git clone -b sublime git@github.com:Blue-Jing/IDE-config.git
+git clone -b sublime https://github.com/Blue-Jing/IDE-config.git
 rd /s User
 reName sublime User
 ```  
