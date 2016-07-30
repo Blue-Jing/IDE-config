@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ChineseLocalizations",
+		"Color Highlighter",
+		"CTags",
+		"DocBlockr",
+		"Emmet",
+		"gruvbox",
+		"jQuery",
+		"JsFormat",
+		"Material Theme",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"View In Browser"
+	]
+}

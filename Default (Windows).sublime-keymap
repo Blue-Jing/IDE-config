@@ -1,0 +1,17 @@
+[
+    { "keys": ["f1"], "command": "toggle_side_bar" }, 
+    { "keys": ["f2"], "command": "toggle_menu" },
+    {
+        "keys": ["f3"],
+        "command": "color_picker",
+        "context": [
+            {
+                "key": "color_highlighter.color_picker"
+            }
+        ]
+    },
+    {
+        "keys": ["f4"], "command": "js_format",
+        "context": [{"key": "selector", "operator": "equal", "operand": "source.js,source.json"}]
+    }
+]

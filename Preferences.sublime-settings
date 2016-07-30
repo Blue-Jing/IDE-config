@@ -1,0 +1,50 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": " ",
+			"selector": "text.html"
+		}
+	],
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/gruvbox/gruvbox (Dark) (Hard) NDC.tmTheme",
+	"font_face": "Source Code Pro",
+	"font_options":
+	[
+		"no_bold",
+		"no_italic",
+		"no_antialias",
+		"gray_antialias"
+	],
+	"font_size": 12,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 2.8,
+	"line_padding_top": 2.8,
+	"material_theme_accent_lime": false,
+	"material_theme_bold_tab": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_disable_tree_indicator": true,
+	"material_theme_panel_separator": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"material_theme_tabs_separator": true,
+	"overlay_scroll_bars": "enabled",
+	"show_encoding": true,
+	"tab_size": 4,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"update_check": false,
+	"word_wrap": false
+}
