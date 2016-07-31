@@ -1,6 +1,8 @@
 # 分支 JetBrains
 ## WebStorm 相关配置文件说明
 * [**部分菜单图文说明**](https://github.com/Blue-Jing/IDE-config/tree/JetBrains/ws_img)  
+ 
+* [**WebStorm 个性化配置**](https://github.com/Blue-Jing/IDE-config/blob/JetBrains/Other-instructions/configure-directory-introduce.md)
 
 * **配置文件 ：**[Jing-settings.jar](https://raw.githubusercontent.com/Blue-Jing/IDE-config/JetBrains/Jing-settings.jar)  
 
