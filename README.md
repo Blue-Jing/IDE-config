@@ -16,7 +16,7 @@ File -> Import Settings 导入
 
 ---
 ##### Crack文件说明
->1. 将 [JetbrainsCrack-2.6.2.jar](https://github.com/Blue-Jing/IDE-config/blob/JetBrains/JetbrainsCrack-2.6.2.jar) 下载到 `D:\Program Files (x86)\JetBrains\WebStorm 2016.2\bin` 目录下;  
+>1. 将 [JetbrainsCrack-2.6.2.jar](https://raw.githubusercontent.com/Blue-Jing/IDE-config/JetBrains/JetbrainsCrack-2.6.2.jar) 下载到 `D:\Program Files (x86)\JetBrains\WebStorm 2016.2\bin` 目录下;  
 2. 编辑 WebStorm 安装目录下 bin 文件夹中的 `WebStorm.exe.vmoptions` 与 `WebStorm64.exe.vmoptions` 文件;  
 3. 在文件头部加上:  
  `-javaagent:D:\Program Files (x86)\JetBrains\WebStorm 2016.2\bin\JetbrainsCrack-2.5.3.jar` ;  
