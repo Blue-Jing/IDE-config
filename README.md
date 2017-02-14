@@ -6,7 +6,7 @@
 
 * **配置文件 ：**[Jing-settings.jar](https://raw.githubusercontent.com/Blue-Jing/IDE-config/JetBrains/Jing-settings.jar)  
 
-* **Crack文件 ：**[JetbrainsCrack-2.5.6.jar](https://raw.githubusercontent.com/Blue-Jing/IDE-config/JetBrains/JetbrainsCrack-2.5.6.jar)  
+* **Crack文件 ：**[JetbrainsCrack-2.6.2.jar](https://raw.githubusercontent.com/Blue-Jing/IDE-config/JetBrains/JetbrainsCrack-2.6.2.jar)  
 
 ---
 ##### 导入配置文件
